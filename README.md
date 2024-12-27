@@ -46,6 +46,8 @@
   - Técnicas Avançadas em **Power BI** e **AutoCAD**.
 
 ---
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AndreRicartes&theme=dark&locale=pt_BR&short_numbers=true)](https://git.io/streak-stats)
+---
 
 ## 📫 **Entre em Contato**
 - **Email:** [andrericartes@gmail.com](mailto:andrericartes@gmail.com)
